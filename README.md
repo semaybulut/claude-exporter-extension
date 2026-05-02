@@ -31,12 +31,26 @@ Herhangi bir Claude sohbetini tek tıkla temiz bir Markdown dosyası olarak indi
 - Google Chrome (veya Chromium tabanlı tarayıcı: Brave, Edge, Arc)
 - Chrome extensions'ta Geliştirici modu açık olmalı
 
-# Lisans
+## 👤 Geliştirici
 
-MIT Lisansı [claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter.git) projesine dayanmaktadır.
-Geliştiren ve genişleten: (https://github.com/semaybulut)
-## AxonodeAI 
+Bu proje, orijinal çekirdek üzerine inşa edilerek **[Sema Bulut](https://github.com/semaybulut)** tarafından geliştirilmiş ve genişletilmiştir.
 
+> [!TIP]
+> AxonodeAI sürümü; gelişmiş özellikler ve optimize edilmiş bir deneyim sunmak için yeniden tasarlandı.
+
+---
+
+## 🚀 Geliştiren & Genişleten
+
+Bu proje, [claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) projesi temel alınarak **AxonodeAI** kapsamında özelleştirilmiştir.  
+Tüm geliştirmeler ve yeni modüller **[Sema Bulut](https://github.com/semaybulut)** tarafından hayata geçirilmiştir.
+
+---
+
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile korunmaktadır.  
+Temel alınan çalışma: [claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter)
 
 ---
 
