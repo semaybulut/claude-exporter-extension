@@ -36,14 +36,7 @@ Herhangi bir Claude sohbetini tek tıkla temiz bir Markdown dosyası olarak indi
 Bu proje, orijinal çekirdek üzerine inşa edilerek **[Sema Bulut](https://github.com/semaybulut)** tarafından geliştirilmiş ve genişletilmiştir.
 
 > [!TIP]
-> AxonodeAI sürümü; gelişmiş özellikler ve optimize edilmiş bir deneyim sunmak için yeniden tasarlandı.
-
----
-
-## 🚀 Geliştiren & Genişleten
-
-Bu proje, [claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) projesi temel alınarak **AxonodeAI** kapsamında özelleştirilmiştir.  
-Tüm geliştirmeler ve yeni modüller **[Sema Bulut](https://github.com/semaybulut)** tarafından hayata geçirilmiştir.
+> AxonodeAI sürümü; orijinal proje temel alınarak sıfırdan optimize edildi. Gelişmiş özellikler ve optimize edilmiş bir deneyim sunmak için yeniden tasarlanarak **AxonodeAI** kapsamında özelleştirilmiştir.  
 
 ---
 
