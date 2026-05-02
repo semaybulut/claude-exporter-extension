@@ -35,10 +35,9 @@ Herhangi bir Claude sohbetini tek tıkla temiz bir Markdown dosyası olarak indi
 
 
 MIT Lisansı [claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter.git) projesine dayanmaktadır.
-
-Geliştiren ve genişleten: 
+# Geliştiren ve genişleten: (https://github.com/semaybulut)
 ## AxonodeAI 
-(https://github.com/semaybulut)
+
 
 ---
 
