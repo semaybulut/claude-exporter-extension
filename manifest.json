@@ -3,7 +3,7 @@
   "name": "Claude Exporter",
   "version": "1.0.0",
   "description": "Export Claude conversations as Markdown with one click.",
-  "permissions": ["clipboardWrite"],
+  "permissions": ["clipboardWrite", "clipboardRead", "scripting"],,
   "host_permissions": ["https://claude.ai/*"],
   "content_scripts": [
     {
